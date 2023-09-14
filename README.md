@@ -1,8 +1,7 @@
 # Machine Vision for Road Signs
 
 ## Overview
-This project focuses on utilizing machine vision techniques to enhance road sign recognition. It involves data collection from various internet sources and annotation using Roboflow Annotate. Machine learning models were created and trained using Roboflow_V2, Detectron2, and YOLOv5. The trained model is deployed on a Raspberry Pi equipped with a camera module, providing a real-time road sign recognition video feed, which can be observed from an external screen. The achieved accuracy of the model is an impressive 88%.
-
+This project focuses on utilizing machine vision techniques to enhance road sign recognition. It involves data collection from various internet sources and annotation using Roboflow Annotate. Machine learning models were created and trained using Roboflow_V2, Detectron2, and YOLOv5. Roboflow_V2 model served the best accuracy of an impressive 88%. The trained model is then deployed on a Raspberry Pi equipped with a camera module, providing a real-time road sign recognition video feed, which can be observed from an external screen. 
 ## Project Details
 
 ### Data Collection
